@@ -1,5 +1,5 @@
 # DFBot-Seldon
- a DF not inspired by Seldon
+ a DF bot inspired by Seldon
 
 alphaware by an amature coder
 
